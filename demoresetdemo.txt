@@ -1,2 +1,4 @@
 reset first
-reset second
+reset secon
+thrit commkt
+d
